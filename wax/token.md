@@ -1,5 +1,16 @@
 ---
 description: BOXY is proudly minted on WAX
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Token
@@ -18,5 +29,5 @@ description: BOXY is proudly minted on WAX
 
 * [23,000,000](https://waxblock.io/tokens/BOXY-wax-boxycoinnfts) Max Supply - Distribution tokenomics available soon
 * New utility coming September 2023!
-* View the [contract](https://waxblock.io/account/boxycoinnfts#contract-abi).
-
+* View the [contract](https://waxblock.io/account/boxycoinnfts#contract-abi)
+* Earn BOXY by liquidity mining on Alcor and Taco

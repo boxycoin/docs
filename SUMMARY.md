@@ -11,6 +11,6 @@
 
 ## Next Phase
 
-* [Decentralized Id](next-phase/decentralized-id.md)
 * [Badge Swap](next-phase/badge-swap.md)
 * [Name Service](next-phase/name-service.md)
+* [Decentralized Id](next-phase/decentralized-id.md)
