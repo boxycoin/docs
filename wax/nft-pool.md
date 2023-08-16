@@ -15,6 +15,6 @@ layout:
 
 # NFT Pool
 
-## [Stake boxycoinnfts for BOXY Token](https://waxdao.io/farm/boxy.farm)
-
-<figure><img src="../.gitbook/assets/mindmaster_logo.22e82db6ac0c61e5da98.png" alt=""><figcaption></figcaption></figure>
+> ## [Stake boxycoinnfts for BOXY Token](https://waxdao.io/farm/boxy.farm)
+>
+> <img src="../.gitbook/assets/mindmaster_logo.22e82db6ac0c61e5da98.png" alt="" data-size="original">

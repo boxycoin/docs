@@ -6,7 +6,7 @@ description: Boxy Coin is an open source crypto-currency project
 
 At Boxy, our passion is building sustainable blockchain solutions.  The project's next phase is bringing decentralized identity creation and management to the WAX blockchain.
 
-In this age, user's personal data is being hoarded, hacked, and held for ransom.  Currently, there is no control over what data is stored and accessible by web users.  This reality can be changed using Decentralized Identity concepts and Verified credentials.  More importantly, making these tools accessible to all users of the WAX blockchain.
+In this age, user's personal data is being hoarded, hacked, and held for ransom.  There is no control over what data is stored and accessible by web users.  This reality can be changed using Decentralized Identity concepts and Verified credentials.  More importantly, making these tools accessible to all users of the WAX blockchain.
 
 Web3 users should not only control, but profit from their digital identities!  Boxy is here to provide decentralized identity services to WAX blockchain end-users.
 

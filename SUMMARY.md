@@ -5,6 +5,7 @@
 ## WAX
 
 * [Token](wax/token.md)
+* [Buy NFTs](wax/buy-nfts.md)
 * [NFT Pool](wax/nft-pool.md)
 * [Blends](wax/blends.md)
 
