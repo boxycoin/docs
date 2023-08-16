@@ -6,6 +6,7 @@
 
 * [Token](wax/token.md)
 * [NFT Pool](wax/nft-pool.md)
+* [Blends](wax/blends.md)
 
 ## Next Phase
 

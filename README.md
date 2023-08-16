@@ -4,7 +4,7 @@ description: Boxy Coin is an open source crypto-currency project
 
 # Welcome
 
-Our passion is building sustainable blockchain solutions.  The project's next phase is bringing decentralized identity creation and management to the WAX blockchain.
+At Boxy, our passion is building sustainable blockchain solutions.  The project's next phase is bringing decentralized identity creation and management to the WAX blockchain.
 
 In this age, user's personal data is being hoarded, hacked, and held for ransom.  Currently, there is no control over what data is stored and accessible by web users.  This reality can be changed using Decentralized Identity concepts and Verified credentials.  More importantly, making these tools accessible to all users of the WAX blockchain.
 
@@ -16,9 +16,9 @@ Web3 users should not only control, but profit from their digital identities!  B
 
 * Sustainability \~ _Empowering self-sovereign identity_
 * Scalability \~ _Built for today, prepared for tomorrow_
-* Compliant \~ _Developed with the latest Web3.0 protocols and standards_
-* Secure \~ _Open source and blockchain backed_
-* Interoperable \~ _Drops into existing WAX ecosystem_
+* Compliance \~ _Developed with the latest Web3.0 protocols and standards_
+* Security \~ _Open source and blockchain backed_
+* Interoperability \~ _Drops into existing WAX ecosystem_
 
 ## What's the Plan?
 
@@ -26,4 +26,4 @@ Web3 users should not only control, but profit from their digital identities!  B
 
 <table data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td> <mark style="background-color:orange;"><strong>Q4 2023</strong></mark> </td><td>Decentralized ID Beta Testing<br><br>Give-aways<br><br>Partnerships<br><br>Boxy PFP Whitelisted Launch</td><td></td><td></td></tr><tr><td> <mark style="background-color:orange;"><strong>Q1 2024</strong></mark> </td><td>User Portal for D.I.D Management<br><br>Boxy PFP Public Launch</td><td></td><td></td></tr></tbody></table>
 
-&#x20;
+## A New Standard

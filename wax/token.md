@@ -1,14 +1,21 @@
 ---
-description: BOXY Available on ALCOR
+description: BOXY is proudly minted on WAX
 ---
 
 # Token
 
-## [Trade BOXY/WAX Now!](https://wax.alcor.exchange/trade/BOXY-boxycoinnfts\_WAX-eosio.token)
+## Markets
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 10.02.17 AM.png" alt=""><figcaption></figcaption></figure>
+> <img src="../.gitbook/assets/alcorwhite.cb298e8.svg" alt="" data-size="original">
+>
+> ## [Trade BOXY/WAX Now!](https://wax.alcor.exchange/trade/BOXY-boxycoinnfts\_WAX-eosio.token)
+
+> <img src="../.gitbook/assets/logo-lettering-taco.png" alt="" data-size="original">
+>
+> ## [Swap BOXY/WAX Now!](https://swap.tacocrypto.io/swap?output=WAX-eosio.token\&input=BOXY-boxycoinnfts)
 
 ## Token Information
 
 * [23,000,000](https://waxblock.io/tokens/BOXY-wax-boxycoinnfts) Max Supply - Distribution tokenomics available soon
+* View the [contract](https://waxblock.io/account/boxycoinnfts#contract-abi).
 
