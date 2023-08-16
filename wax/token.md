@@ -10,7 +10,5 @@ description: BOXY Available on ALCOR
 
 ## Token Information
 
-* [23,000,000](https://waxblock.io/tokens/BOXY-wax-boxycoinnfts) Max Supply
-  * 50%
-  * 25%&#x20;
+* [23,000,000](https://waxblock.io/tokens/BOXY-wax-boxycoinnfts) Max Supply - Distribution tokenomics available soon
 
