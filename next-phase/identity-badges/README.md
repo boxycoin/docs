@@ -1,6 +1,6 @@
 # Identity Badges
 
-<figure><img src="../../.gitbook/assets/B979F71F-3A8C-4C08-B8D7-91370138F844.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/90089CA7-DB1B-4CA5-91AB-4656DEBB5D32.png" alt=""><figcaption></figcaption></figure>
 
 ## What are Badges?
 
