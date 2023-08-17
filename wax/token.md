@@ -30,4 +30,4 @@ layout:
 * [23,000,000](https://waxblock.io/tokens/BOXY-wax-boxycoinnfts) Max Supply - Distribution tokenomics available soon
 * New utility coming September 2023!
 * View the [contract](https://waxblock.io/account/boxycoinnfts#contract-abi)
-* Earn BOXY by liquidity mining on Alcor and Taco
+* Earn BOXY by LP mining on Alcor and Taco
